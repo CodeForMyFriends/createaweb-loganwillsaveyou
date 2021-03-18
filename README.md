@@ -1,2 +1,2 @@
 # Create a web - logan
-<a href="./product/download.html" target="_top">Go to website</a>
+<a href="https://codeformyfriends.github.io/createaweb-loganwillsaveyou/" target="_blank">Go to website</a>
